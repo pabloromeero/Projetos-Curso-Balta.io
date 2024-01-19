@@ -1,0 +1,14 @@
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/bin/Debug/net8.0/MeuApp
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/bin/Debug/net8.0/MeuApp.deps.json
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/bin/Debug/net8.0/MeuApp.runtimeconfig.json
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/bin/Debug/net8.0/MeuApp.dll
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/bin/Debug/net8.0/MeuApp.pdb
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/obj/Debug/net8.0/MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/obj/Debug/net8.0/MeuApp.AssemblyInfoInputs.cache
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/obj/Debug/net8.0/MeuApp.AssemblyInfo.cs
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/obj/Debug/net8.0/MeuApp.csproj.CoreCompileInputs.cache
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/obj/Debug/net8.0/MeuApp.dll
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/obj/Debug/net8.0/refint/MeuApp.dll
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/obj/Debug/net8.0/MeuApp.pdb
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/obj/Debug/net8.0/MeuApp.genruntimeconfig.cache
+/Users/hdiomnirecife/Documents/curso-c#(balta)/MeuApp/obj/Debug/net8.0/ref/MeuApp.dll
